@@ -9,9 +9,9 @@ This project visualizes population age distribution using Python and Matplotlib.
 - Saved charts as images
 
 ## Tech Stack
-Python
-Matplotlib
-Pandas
+- Python
+- Matplotlib
+- Pandas
 
 ## How to Run
 python age_distribution.py
